@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on ReactJS and NodeJS.<br><br>🌱 I’m diving into the world of Data Science.<br><br>💬 Ask me about Web Development, Machine Learning, or anything tech-related.<br><br>📫 How to reach me: LinkedIn | Email<br>
-
+🔭 I’m currently working on ReactJS and NodeJS.<br><br>🌱 I’m diving into the world of Data Science.<br><br>💬 Ask me about Web Development, Machine Learning, or anything tech-related.<br><br>- 📫 How to reach me: 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tabassum Yunus) 
